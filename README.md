@@ -1,10 +1,8 @@
-LaTeX-Unterlagen
-<===============>
+## LaTeX-Unterlagen
 
 "In diesem Repository befinden sich die LaTeX-Unterlagen zum Modul."
 
 ## Inhalt
-<---->
 
 Der Inhalt entspricht dem Text der Aufgabe 2 des Moduls.
 
@@ -13,7 +11,6 @@ anzusehen
 
 
 ## PDF erstellen
-<----------->
 
 Das geht ganz schnell und einfach:
 
