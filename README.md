@@ -21,7 +21,7 @@ Das geht ganz schnell und einfach:
 	"latexmk -pdf ./task.tex"
 
 
-!!ACHTUNG!!
+## !!ACHTUNG!!
 
 LaTeX erstelle einige nervige Dateien (.aux, .log) diese muss man loeschen bevor
 man einen Commit mit seinen Aenderungen macht!
